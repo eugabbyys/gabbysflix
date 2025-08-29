@@ -6,8 +6,12 @@ color: ghostwhite;
 
 }
 h1 {
-    color:rgb(255, 217, 0)
+    color:rgb(247, 246, 241)
 
 
     
+}
+
+header {
+    border: solid 2px rgb(53, 59, 182);
 }
