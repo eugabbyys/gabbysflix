@@ -1,6 +1,6 @@
 body {
     color: rgb(252, 249, 245);
-    background: black;
+    background: rgb(255, 116, 10);
     margin: 0px;
     font-family: "Trade Winds", system-ui;
   font-weight: 400;
@@ -21,7 +21,7 @@ header {
     background: rgb(255, 116, 10);
     padding-bottom: 80px;
     padding-top: 10px;
-    display: flex;
+    display: inline;
     justify-content: left;
 }
 
@@ -61,13 +61,13 @@ p {
 }
 
 .categoria-videos img {
-    opacity: 0.5;
+    opacity: 1;
     height: 200px;
 }
 
 .categoria-videos img:hover {
-    opacity: 1.0;
-    border: 3px solid rgb(194, 35, 3);
+    opacity: 1;
+    border: 3px solid rgb(27, 26, 25);
 }
 
 .categoria h2 {
